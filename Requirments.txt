@@ -1,0 +1,8 @@
+
+#all packages are preinstalled in colab
+
+#install tensorflow 
+!pip install tensorflow
+
+#install shutil,Pathlib and csv 
+!pip install shutil os pathlib csv
