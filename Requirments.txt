@@ -1,5 +1,6 @@
 
-#all packages are preinstalled in colab
+#all packages are preinstalled in colab so their is no need for installation 
+#to be able to run the code you need to use colab otherwise all the paths to directory should be modified 
 
 #install tensorflow 
 !pip install tensorflow
